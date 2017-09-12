@@ -11,6 +11,7 @@
 * Points for % profile complete
 * Connect with other athletes
 * links to socials
+* User backened store for users to use points to purchase items with points
 
 ##  Educational resources
 
@@ -28,6 +29,7 @@
   * College
     * Coach
 * Recruiter
+* Guide(s)
 
 ## Search
 
@@ -37,4 +39,5 @@
 
 ## Other
 * chat
-Face to face chst for users to user interaction 
+* Face to face chat for users to user interaction 
+* skype capability for user to user connection /interaction on site
