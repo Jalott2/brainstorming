@@ -40,4 +40,4 @@
 ## Other
 * chat
 * Face to face chat for users to user interaction 
-* skype capability for user to user connection /interaction on site
+
